@@ -62,7 +62,7 @@ Najważniejsze reguły:
 6. **Nie marnuj miejsca.** Gęsty, nowoczesny UI w stylu Linear/Vercel.
 7. **Zero zmyślonych danych.** Brak danych = pytaj, nie wymyślaj.
 
-Pełna treść jest w pliku [`SKILL.md`](SKILL.md): reguły smaku, komunikacja, formatowanie, workflow, poprzeczka jakości i tabela odczytywania intencji.
+Pełna treść jest w pliku [`SKILL.md`](SKILL.md) (po polsku: [`SKILL.pl.md`](SKILL.pl.md)): reguły smaku, komunikacja, formatowanie, workflow, poprzeczka jakości i tabela odczytywania intencji.
 
 ## Instalacja
 
