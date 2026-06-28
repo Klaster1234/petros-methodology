@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Petros Methodology" width="100%">
+  <img src="assets/banner.png" alt="Petros Methodology" width="100%">
 </p>
 
 <h1 align="center">Petros Methodology</h1>
